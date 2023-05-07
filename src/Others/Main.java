@@ -17,6 +17,9 @@ public abstract class Main implements Serializable {
     Administrator administrator;
     Bookstore bookstore;
 
+    
+    
+    //asldasdasd
     // Constructors
     Main(){
     }
